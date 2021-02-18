@@ -1,2 +1,4 @@
 # A-Path-Finding-Visualizer
-A* Path Finding Visualizer. It uses A* Search algorithm to find the shortest path between two points.
+Visualization tool that uses A* Search Algorithm, implemented using Priority Queue, to find the shortest
+path between two points.
+
